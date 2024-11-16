@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2E153D-647F-42BC-9BE0-F260F61FF3D6}|QuanLyNhanSu\\QuanLyNhanSu.csproj|C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\quanlynhansu\\qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F2E153D-647F-42BC-9BE0-F260F61FF3D6}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2E153D-647F-42BC-9BE0-F260F61FF3D6}|QuanLyNhanSu\\QuanLyNhanSu.csproj|c:\\users\\admin\\source\\repos\\quanlynhansu\\quanlynhansu\\qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2E153D-647F-42BC-9BE0-F260F61FF3D6}|QuanLyNhanSu\\QuanLyNhanSu.csproj|solutionrelative:quanlynhansu\\qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "RelativeToolTip": "QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:09:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\QuanLyNhanSu\\QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanSu\\Qu\u1EA3n l\u00FD nh\u00E2n s\u1EF1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:15:44.595Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
